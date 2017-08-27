@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'GothamBlack';
+    src: url('GothamBlack/GothamBlack.eot');
+    src: url('GothamBlack/GothamBlack.eot') format('embedded-opentype'),
+    url('GothamBlack/GothamBlack.woff2') format('woff2'),
+    url('GothamBlack/GothamBlack.woff') format('woff'),
+    url('GothamBlack/GothamBlack.ttf') format('truetype'),
+    url('GothamBlack/GothamBlack.svg#GothamBlack') format('svg');
+}
+@font-face {
+    font-family: 'GothamBlackItalic';
+    src: url('GothamBlackItalic/GothamBlackItalic.eot');
+    src: url('GothamBlackItalic/GothamBlackItalic.eot') format('embedded-opentype'),
+    url('GothamBlackItalic/GothamBlackItalic.woff2') format('woff2'),
+    url('GothamBlackItalic/GothamBlackItalic.woff') format('woff'),
+    url('GothamBlackItalic/GothamBlackItalic.ttf') format('truetype'),
+    url('GothamBlackItalic/GothamBlackItalic.svg#GothamBlackItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamBold';
+    src: url('GothamBold/GothamBold.eot');
+    src: url('GothamBold/GothamBold.eot') format('embedded-opentype'),
+    url('GothamBold/GothamBold.woff2') format('woff2'),
+    url('GothamBold/GothamBold.woff') format('woff'),
+    url('GothamBold/GothamBold.ttf') format('truetype'),
+    url('GothamBold/GothamBold.svg#GothamBold') format('svg');
+}
+@font-face {
+    font-family: 'GothamBoldItalic';
+    src: url('GothamBoldItalic/GothamBoldItalic.eot');
+    src: url('GothamBoldItalic/GothamBoldItalic.eot') format('embedded-opentype'),
+    url('GothamBoldItalic/GothamBoldItalic.woff2') format('woff2'),
+    url('GothamBoldItalic/GothamBoldItalic.woff') format('woff'),
+    url('GothamBoldItalic/GothamBoldItalic.ttf') format('truetype'),
+    url('GothamBoldItalic/GothamBoldItalic.svg#GothamBoldItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamBook';
+    src: url('GothamBook/GothamBook.eot');
+    src: url('GothamBook/GothamBook.eot') format('embedded-opentype'),
+    url('GothamBook/GothamBook.woff2') format('woff2'),
+    url('GothamBook/GothamBook.woff') format('woff'),
+    url('GothamBook/GothamBook.ttf') format('truetype'),
+    url('GothamBook/GothamBook.svg#GothamBook') format('svg');
+}
+@font-face {
+    font-family: 'GothamBookItalic';
+    src: url('GothamBookItalic/GothamBookItalic.eot');
+    src: url('GothamBookItalic/GothamBookItalic.eot') format('embedded-opentype'),
+    url('GothamBookItalic/GothamBookItalic.woff2') format('woff2'),
+    url('GothamBookItalic/GothamBookItalic.woff') format('woff'),
+    url('GothamBookItalic/GothamBookItalic.ttf') format('truetype'),
+    url('GothamBookItalic/GothamBookItalic.svg#GothamBookItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamLight';
+    src: url('GothamLight/GothamLight.eot');
+    src: url('GothamLight/GothamLight.eot') format('embedded-opentype'),
+    url('GothamLight/GothamLight.woff2') format('woff2'),
+    url('GothamLight/GothamLight.woff') format('woff'),
+    url('GothamLight/GothamLight.ttf') format('truetype'),
+    url('GothamLight/GothamLight.svg#GothamLight') format('svg');
+}
+@font-face {
+    font-family: 'GothamLightItalic';
+    src: url('GothamLightItalic/GothamLightItalic.eot');
+    src: url('GothamLightItalic/GothamLightItalic.eot') format('embedded-opentype'),
+    url('GothamLightItalic/GothamLightItalic.woff2') format('woff2'),
+    url('GothamLightItalic/GothamLightItalic.woff') format('woff'),
+    url('GothamLightItalic/GothamLightItalic.ttf') format('truetype'),
+    url('GothamLightItalic/GothamLightItalic.svg#GothamLightItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamMedium';
+    src: url('GothamMedium/GothamMedium.eot');
+    src: url('GothamMedium/GothamMedium.eot') format('embedded-opentype'),
+    url('GothamMedium/GothamMedium.woff2') format('woff2'),
+    url('GothamMedium/GothamMedium.woff') format('woff'),
+    url('GothamMedium/GothamMedium.ttf') format('truetype'),
+    url('GothamMedium/GothamMedium.svg#GothamMedium') format('svg');
+}
+@font-face {
+    font-family: 'GothamMediumItalic';
+    src: url('GothamMediumItalic/GothamMediumItalic.eot');
+    src: url('GothamMediumItalic/GothamMediumItalic.eot') format('embedded-opentype'),
+    url('GothamMediumItalic/GothamMediumItalic.woff2') format('woff2'),
+    url('GothamMediumItalic/GothamMediumItalic.woff') format('woff'),
+    url('GothamMediumItalic/GothamMediumItalic.ttf') format('truetype'),
+    url('GothamMediumItalic/GothamMediumItalic.svg#GothamMediumItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamThin';
+    src: url('GothamThin/GothamThin.eot');
+    src: url('GothamThin/GothamThin.eot') format('embedded-opentype'),
+    url('GothamThin/GothamThin.woff2') format('woff2'),
+    url('GothamThin/GothamThin.woff') format('woff'),
+    url('GothamThin/GothamThin.ttf') format('truetype'),
+    url('GothamThin/GothamThin.svg#GothamThin') format('svg');
+}
+@font-face {
+    font-family: 'GothamThinItalic';
+    src: url('GothamThinItalic/GothamThinItalic.eot');
+    src: url('GothamThinItalic/GothamThinItalic.eot') format('embedded-opentype'),
+    url('GothamThinItalic/GothamThinItalic.woff2') format('woff2'),
+    url('GothamThinItalic/GothamThinItalic.woff') format('woff'),
+    url('GothamThinItalic/GothamThinItalic.ttf') format('truetype'),
+    url('GothamThinItalic/GothamThinItalic.svg#GothamThinItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamUltra';
+    src: url('GothamUltra/GothamUltra.eot');
+    src: url('GothamUltra/GothamUltra.eot') format('embedded-opentype'),
+    url('GothamUltra/GothamUltra.woff2') format('woff2'),
+    url('GothamUltra/GothamUltra.woff') format('woff'),
+    url('GothamUltra/GothamUltra.ttf') format('truetype'),
+    url('GothamUltra/GothamUltra.svg#GothamUltra') format('svg');
+}
+@font-face {
+    font-family: 'GothamUltraItalic';
+    src: url('GothamUltraItalic/GothamUltraItalic.eot');
+    src: url('GothamUltraItalic/GothamUltraItalic.eot') format('embedded-opentype'),
+    url('GothamUltraItalic/GothamUltraItalic.woff2') format('woff2'),
+    url('GothamUltraItalic/GothamUltraItalic.woff') format('woff'),
+    url('GothamUltraItalic/GothamUltraItalic.ttf') format('truetype'),
+    url('GothamUltraItalic/GothamUltraItalic.svg#GothamUltraItalic') format('svg');
+}
+@font-face {
+    font-family: 'GothamXLight';
+    src: url('GothamXLight/GothamXLight.eot');
+    src: url('GothamXLight/GothamXLight.eot') format('embedded-opentype'),
+    url('GothamXLight/GothamXLight.woff2') format('woff2'),
+    url('GothamXLight/GothamXLight.woff') format('woff'),
+    url('GothamXLight/GothamXLight.ttf') format('truetype'),
+    url('GothamXLight/GothamXLight.svg#GothamXLight') format('svg');
+}
+@font-face {
+    font-family: 'GothamXLightItalic';
+    src: url('GothamXLightItalic/GothamXLightItalic.eot');
+    src: url('GothamXLightItalic/GothamXLightItalic.eot') format('embedded-opentype'),
+    url('GothamXLightItalic/GothamXLightItalic.woff2') format('woff2'),
+    url('GothamXLightItalic/GothamXLightItalic.woff') format('woff'),
+    url('GothamXLightItalic/GothamXLightItalic.ttf') format('truetype'),
+    url('GothamXLightItalic/GothamXLightItalic.svg#GothamXLightItalic') format('svg');
+}
+@font-face {
+    font-family: 'NexaLight';
+    src: url('NexaLight/NexaLight.eot');
+    src: url('NexaLight/NexaLight.eot') format('embedded-opentype'),
+    url('NexaLight/NexaLight.woff2') format('woff2'),
+    url('NexaLight/NexaLight.woff') format('woff'),
+    url('NexaLight/NexaLight.ttf') format('truetype'),
+    url('NexaLight/NexaLight.svg#NexaLight') format('svg');
+}
+@font-face {
+    font-family: 'AbrilFatfaceRegular';
+    src: url('AbrilFatfaceRegular/AbrilFatfaceRegular.eot');
+    src: url('AbrilFatfaceRegular/AbrilFatfaceRegular.eot') format('embedded-opentype'),
+    url('AbrilFatfaceRegular/AbrilFatfaceRegular.woff2') format('woff2'),
+    url('AbrilFatfaceRegular/AbrilFatfaceRegular.woff') format('woff'),
+    url('AbrilFatfaceRegular/AbrilFatfaceRegular.ttf') format('truetype'),
+    url('AbrilFatfaceRegular/AbrilFatfaceRegular.svg#AbrilFatfaceRegular') format('svg');
+}

@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+
+.inves-tab .tab-bd .tab-item .txt{line-height:25px; padding: 0 20px;}
+.inves-tab .tab-bd .tab-item .img{text-align:center;}
+.investment_top {padding: 2px; color: #502a94; font-size: 18px; font-weight: bold; margin-left: 25%;}
+
+.altery-hover {width:25px; height:25px; display:block;}
+.altery-hover img{width:100%;}
+.altery-item{ float: none !important; display: inline-block; }
+.altery-code{
+	display: none;
+    position: absolute;
+    z-index: 2;
+    width: 180px;
+    height: 180px;
+    bottom: 0;
+    right: 40px;
+}
+
+.altery-member-code{
+	display: none;
+    position: absolute;
+    z-index: 9999999999;
+    width: 180px;
+    height: 180px;
+    bottom: 0;
+    left: 40px;
+}
+.altery-hover:hover +.altery-code{
+	display:block;
+}
+.ewm-img:hover +.altery-code{
+	display:block;
+}
+.ewm-img:hover +.altery-member-code{
+	display:block;
+}
+.pop-mask{background-color: rgba(0,0,0,50) !important;}
+.Subscription-listbox .td .ewm{display:inline-block;}
+.ewm-img img{width:50px;}
+
+.altery-page{ background: #fff; text-align: center; font-size: 20px;}
+.altery-page a{padding:5px;margin-top:5px; display:inline-block; }
+.altery-page .current{ background:#332450; color:#fff;}
+
+@media screen and (min-width: 1600px){
+	.member-page .r-mainbox{
+		float:none!important;
+		width:100%!important;
+		margin:0!important;
+		padding:25px 100px 25px 380px!important;
+	}
+}
+@media screen and (max-width: 1024px){
+.altery-item{ float: left !important; display: inline-block; width:50% !important;}
+.investment_top {padding: 2px; color: #502a94; font-size: 18px; font-weight: bold; margin-left:25%;}
+}
+@media screen and (max-width: 414px){
+.investment_top {padding: 2px; color: #502a94; font-size: 18px; font-weight: bold; margin-left:0;}
+}
+
+
+
+.member-form-result2,
+.member-form-result2 table {
+	width: 100% !important;
+}
+.member-form-result2 td {
+	padding: 10px;
+	border: 1px solid #eee;
+}
