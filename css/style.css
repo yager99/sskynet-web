@@ -701,6 +701,10 @@ figure.effect-bubba:hover p {
     text-align: left;
 }
 
+.team-item .team-image img{
+    width: 100%;
+}
+
 .team-item h3 {
     font-size: 16px;
     font-weight: 500;
@@ -722,6 +726,7 @@ figure.effect-bubba:hover p {
 }
 
 .team-item .team-position {
+    height: 60px;
     color: #000;
     font-size: 12px;
     padding-bottom: 23px;
@@ -1035,8 +1040,8 @@ and (max-width: 480px) {
 }
 
 #juan div {
-    float: left;
-    margin-left: 80px;
+    /*float: left;*/
+    /*margin-left: 80px;*/
     font-size: 24px;
     color: rgb(71, 252, 254);
 }
