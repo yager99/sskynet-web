@@ -1078,3 +1078,7 @@ and (max-width: 480px) {
     height: 60px;
     line-height: 35px;
 }
+.gold { width: 100%; margin: 9% auto;}
+.download {padding: 3.5% 0;}
+.download img { width: 320px; min-width: 250px; margin: 10px auto; }
+.download ul li { text-align: center; }
